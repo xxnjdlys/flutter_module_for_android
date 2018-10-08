@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidFlutterModuleDemo</string>
+    <string name="txt_attach_flutter">attach flutter module %s</string>
+    <string name="txt_click_me">click me to attach flutter module</string>
+</resources>
